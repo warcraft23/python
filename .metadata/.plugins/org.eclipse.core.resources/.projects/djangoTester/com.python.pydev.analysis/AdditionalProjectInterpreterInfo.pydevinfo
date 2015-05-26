@@ -1,0 +1,60 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/Edward/360云盘/私人领域/workspace/python/.metadata/.plugins/org.eclipse.core.resources/.projects/djangoTester/com.python.pydev.analysis/v2_indexcache
+djangoTester.views|1432514914000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/views.py
+west.views|1432524713000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/views.py
+djangoTester.wsgi|1432514316000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/wsgi.py
+djangoTester.settings|1432521996000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/settings.py
+west.urls|1432522215000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/urls.py
+west.migrations.__init__|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/migrations/__init__.py
+west.tests|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/tests.py
+djangoTester.urls|1432515869000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/urls.py
+manage|1432520586000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/manage.py
+west.models|1432520618000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/models.py
+west.admin|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/admin.py
+west.__init__|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/__init__.py
+djangoTester.__init__|1432514316000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/__init__.py
+west.migrations.0001_initial|1432520592000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/migrations/0001_initial.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+3=west.models
+5=djangoTester.views
+4=west.views
+9=Character
+2=djangoTester.wsgi
+10=Migration
+1=djangoTester.settings
+8=west.urls
+6=west.migrations.0001_initial
+7=djangoTester.urls
+-- END DICTIONARY
+-- START TREE 1
+19
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+bas|1|BASE_DIR!11@
+cha|1|Character!25@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+fir|2|first_page!34@first_page!42@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+mig|1|Migration!49@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|2|staff!34@STATIC_URL!11@
+tem|3|templay!34@TEMPLATE_DIRS!11@TEMPLATE_DEBUG!11@
+tim|1|TIME_ZONE!11@
+url|2|urlpatterns!59@urlpatterns!67@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+4
+__u|1|__unicode__!9&26@
+dep|1|dependencies!10&51@
+nam|1|name!9&27@
+ope|1|operations!10&51@
+-- END TREE

@@ -1,0 +1,15 @@
+MODULES_MANAGER_V2
+djangoTester.__init__|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/__init__.py
+djangoTester.settings|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/settings.py
+djangoTester.urls|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/urls.py
+djangoTester.views|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/views.py
+djangoTester.wsgi|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/wsgi.py
+manage|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/manage.py
+west.__init__|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/__init__.py
+west.admin|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/admin.py
+west.migrations.0001_initial|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/migrations/0001_initial.py
+west.migrations.__init__|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/migrations/__init__.py
+west.models|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/models.py
+west.tests|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/tests.py
+west.urls|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/urls.py
+west.views|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/views.py

@@ -1,0 +1,10 @@
+'''
+Created on 2015年5月25日
+
+@author: Edward
+'''
+
+from django.http import HttpResponse
+
+def first_page(request):
+    return HttpResponse("<p>Hello World</p>");
