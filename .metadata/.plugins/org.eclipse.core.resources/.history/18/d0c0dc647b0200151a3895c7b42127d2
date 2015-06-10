@@ -1,6 +1,0 @@
-from django.conf.urls import patterns,url,include
-from django.conf.urls.i18n import urlpatterns
-
-urlpatterns = patterns('',
-                       url(r'^$','west.views.first_page'),
-                       )

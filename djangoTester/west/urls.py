@@ -11,5 +11,6 @@ from django.conf.urls.i18n import urlpatterns
 urlpatterns = patterns('',
                        url(r'^$','west.views.first_page'),
                        url(r'^staff','west.views.staff'),
-                       url(r'^templay','west.views.templay')
+                       url(r'^templay','west.views.templay'),
+                       url(r'^bootstrap3','west.views.bootstrap3')
                        )

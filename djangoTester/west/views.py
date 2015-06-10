@@ -25,3 +25,6 @@ def templay(request):
     context['label']='HelloWorld!'
     return render(request,'templay.html',context)
 
+def bootstrap3(request):
+    return render(request,'hello2/bootstrap3templay.html')
+
