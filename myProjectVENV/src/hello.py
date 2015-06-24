@@ -8,6 +8,14 @@ def hello_world():
 def printMyName():
 	return "I'm Edward!"
 
+@app.route('/user/<username>')
+def show_user_profile(username):
+	return 'User $s' % username
+
+@app.route('/post/<int:post_id>')
+def show_post(post_id):
+	return 'Post_ID %d' % post_id
+
 if __name__=='__main__':
 	app.debug=True
 	app.run()
