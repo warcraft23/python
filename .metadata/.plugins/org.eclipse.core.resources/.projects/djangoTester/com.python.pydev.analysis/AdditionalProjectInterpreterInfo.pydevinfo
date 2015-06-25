@@ -1,20 +1,20 @@
 -- VERSION_4
 -- START DISKCACHE
-/Users/Edward/360云盘/私人领域/workspace/python/.metadata/.plugins/org.eclipse.core.resources/.projects/djangoTester/com.python.pydev.analysis/v2_indexcache
-djangoTester.views|1432514914000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/views.py
-west.views|1433206798000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/views.py
-djangoTester.wsgi|1432514316000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/wsgi.py
-djangoTester.settings|1433206704000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/settings.py
-west.urls|1433206702000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/urls.py
-west.migrations.__init__|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/migrations/__init__.py
-west.tests|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/tests.py
-djangoTester.urls|1432515869000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/urls.py
-manage|1432520586000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/manage.py
-west.models|1432520618000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/models.py
-west.admin|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/admin.py
-west.__init__|1432515290000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/__init__.py
-djangoTester.__init__|1432514316000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/djangoTester/__init__.py
-west.migrations.0001_initial|1432520592000|/Users/Edward/360云盘/私人领域/workspace/python/djangoTester/west/migrations/0001_initial.py
+/Users/Edward/360Cloud/privateSpace/workspace/python/.metadata/.plugins/org.eclipse.core.resources/.projects/djangoTester/com.python.pydev.analysis/v2_indexcache
+djangoTester.views|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/djangoTester/views.py
+west.views|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/views.py
+djangoTester.wsgi|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/djangoTester/wsgi.py
+djangoTester.settings|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/djangoTester/settings.py
+west.urls|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/urls.py
+west.migrations.__init__|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/migrations/__init__.py
+west.tests|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/tests.py
+djangoTester.urls|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/djangoTester/urls.py
+manage|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/manage.py
+west.models|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/models.py
+west.admin|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/admin.py
+west.__init__|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/__init__.py
+djangoTester.__init__|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/djangoTester/__init__.py
+west.migrations.0001_initial|1435117268000|/Users/Edward/360Cloud/privateSpace/workspace/python/djangoTester/west/migrations/0001_initial.py
 -- END DISKCACHE
 -- START DICTIONARY
 10

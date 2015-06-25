@@ -213,7 +213,7 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_d5gXIAi_EeWoTuhXmMI_sA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="settings" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;settings.py&quot; partName=&quot;settings&quot; title=&quot;settings&quot; tooltip=&quot;djangoTester/djangoTester/settings.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/djangoTester/djangoTester/settings.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;881&quot; selectionTopPixel=&quot;645&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;settings.py&quot; partName=&quot;settings&quot; title=&quot;settings&quot; tooltip=&quot;djangoTester/djangoTester/settings.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/djangoTester/djangoTester/settings.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2007&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.python.pydev.editor.PythonEditor</tags>
           <tags>removeOnHide</tags>
@@ -371,7 +371,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_thSZMAD8EeWaPbc91u7UWw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_qAoBYw9LEeWAqveYNJ7nsQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_tOvQzwD8EeWaPbc91u7UWw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_-rwoYxrrEeW7e7tBWDaS1w" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_tOvQzwD8EeWaPbc91u7UWw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_thSZMQD8EeWaPbc91u7UWw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -398,7 +398,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_thTAQAD8EeWaPbc91u7UWw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_qAsS0g9LEeWAqveYNJ7nsQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_tOuCsQD8EeWaPbc91u7UWw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_-r0SwxrrEeW7e7tBWDaS1w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_tOuCsQD8EeWaPbc91u7UWw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_thTAQQD8EeWaPbc91u7UWw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -883,7 +883,7 @@
       <parameters xmi:id="_tPgssQD8EeWaPbc91u7UWw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.cheatsheets.views.CheatSheetView"/>
     </bindings>
     <bindings xmi:id="_ubrdUQgtEeWmmqIE_jlIzw" keySequence="ALT+COMMAND+R" command="_tOwexgD8EeWaPbc91u7UWw"/>
-    <bindings xmi:id="_pr-nEQ9LEeWAqveYNJ7nsQ" keySequence="COMMAND+CTRL+F" command="_tPqdsQD8EeWaPbc91u7UWw"/>
+    <bindings xmi:id="_-ZZtERrrEeW7e7tBWDaS1w" keySequence="COMMAND+CTRL+F" command="_tPqdsQD8EeWaPbc91u7UWw"/>
   </bindingTables>
   <bindingTables xmi:id="_tPQ1FAD8EeWaPbc91u7UWw" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" bindingContext="_tO0JMgD8EeWaPbc91u7UWw">
     <bindings xmi:id="_tPQ1FQD8EeWaPbc91u7UWw" keySequence="ALT+SHIFT+ARROW_DOWN" command="_tOweyQD8EeWaPbc91u7UWw"/>
@@ -1031,7 +1031,7 @@
     <bindings xmi:id="_tPdpbwD8EeWaPbc91u7UWw" keySequence="ALT+CR" command="_tOq_OQD8EeWaPbc91u7UWw"/>
   </bindingTables>
   <bindingTables xmi:id="_tPrEwAD8EeWaPbc91u7UWw" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_tOPhZwD8EeWaPbc91u7UWw">
-    <bindings xmi:id="_pr-nEg9LEeWAqveYNJ7nsQ" keySequence="M1+W" command="_tPqdtgD8EeWaPbc91u7UWw"/>
+    <bindings xmi:id="_-ZaUIBrrEeW7e7tBWDaS1w" keySequence="M1+W" command="_tPqdtgD8EeWaPbc91u7UWw"/>
   </bindingTables>
   <bindingTables xmi:id="_toGy4QD8EeWaPbc91u7UWw" bindingContext="_toGy4AD8EeWaPbc91u7UWw"/>
   <bindingTables xmi:id="_toHZ8QD8EeWaPbc91u7UWw" bindingContext="_toHZ8AD8EeWaPbc91u7UWw"/>
