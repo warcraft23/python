@@ -1,0 +1,31 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/Edward/360Cloud/privateSpace/workspace/python/.metadata/.plugins/org.eclipse.core.resources/.projects/spiderTest/com.python.pydev.analysis/v2_indexcache
+test4|1437581327000|/Users/Edward/360Cloud/privateSpace/workspace/python/spiderTest/spiderTest/test4.py
+test5|1437582697000|/Users/Edward/360Cloud/privateSpace/workspace/python/spiderTest/spiderTest/test5.py
+test2|1437580070000|/Users/Edward/360Cloud/privateSpace/workspace/python/spiderTest/spiderTest/test2.py
+test3|1437580397000|/Users/Edward/360Cloud/privateSpace/workspace/python/spiderTest/spiderTest/test3.py
+test6|1437583079000|/Users/Edward/360Cloud/privateSpace/workspace/python/spiderTest/spiderTest/test6.py
+test1|1437579695000|/Users/Edward/360Cloud/privateSpace/workspace/python/spiderTest/spiderTest/test1.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=test4
+1=test5
+3=test2
+5=test3
+2=test6
+6=test1
+-- END DICTIONARY
+-- START TREE 1
+6
+coo|3|cookie!11@cookieHandler!11@cookie!19@
+fil|1|filename!11@
+htt|2|httpHandler!27@httpsHandler!27@
+ope|3|opener!27@opener!11@opener!19@
+req|5|request!35@request!43@request!51@request!19@request!11@
+res|4|response!11@response!19@response!51@response!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
